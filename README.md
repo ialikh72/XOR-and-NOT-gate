@@ -1,5 +1,5 @@
 C# Boolean Logic Operations (XOR and NOT)
-Description
+
 
 This C# program demonstrates basic Boolean logic operations using XOR (Exclusive OR) and NOT operators.
 It generates a small truth table for these logical operations using loops.
