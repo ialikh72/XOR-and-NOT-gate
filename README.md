@@ -44,7 +44,7 @@ The program then prints the NOT truth table.
 NOT simply reverses the Boolean value.
 
 Example:
-
+FOR NOT GATE:
 A	!A
 false	true
 true	false
